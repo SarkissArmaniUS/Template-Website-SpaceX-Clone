@@ -19,3 +19,5 @@ This project is a simple SpaceX clone website created to showcase clean HTML, CS
 ## 🚀 Usage
 
 This website serves as a demonstration of clean and organized coding using HTML, CSS, and JavaScript. Feel free to explore the different HTML files to understand the structure and styling of each page.
+
+## 📷 Screenshots
